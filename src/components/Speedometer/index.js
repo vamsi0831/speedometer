@@ -59,4 +59,4 @@ class Speedometer extends Component {
   }
 }
 
-export default SpeedoMeter
+export default Speedometer
